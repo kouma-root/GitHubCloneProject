@@ -1,1 +1,3 @@
-Modification in main branch
+<<<<<<< HEAD
+ Modification in main branch.
+>>>>>>> feature-greeting
